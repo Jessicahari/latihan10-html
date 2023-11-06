@@ -1,0 +1,240 @@
+body{
+	margin: 10px;
+	background-color: whitesmoke;
+}
+span{
+	margin: 50%;
+	justify-content: center;
+}
+input{
+	margin-right: 0px;
+}
+.header{
+	margin: 10px;
+	display: flex;
+	justify-content: space-between;
+}
+img{
+	margin-top: 1px;
+	width: 25%;
+}
+.formulir{
+	margin-top: 30px;
+	border: 3px solid black;
+	height: 100px;
+	width: 150px;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+.kop1{
+	margin: 0;
+	text-align: center;
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+.kop2{
+	margin: 0;
+	text-align: center;
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+.bawah{
+	font-size: 1rem;
+	position: inherit;
+	display: flex;
+	justify-content: end;
+	margin: 0;
+}
+.bag1{
+	font-size: 1rem;
+	background-color: green;
+	color: whitesmoke;
+}
+.pertanyaan{
+	margin-top: -5px;
+	font-size: 1rem;
+	display: flex;
+	justify-content: flex-start;
+}
+.pil{
+	margin-top: -3%;
+	margin-left: 50%;
+	font-size: 1rem;
+	position: inherit;
+	display: block;
+	justify-content: end;
+}
+.kt{
+	margin-top: 0%;
+	margin-right: 5%;
+	font-size: 1rem;
+	display: flex;
+	justify-content: first baseline;
+}
+.kt1{
+	font-size: 1rem;
+	margin-right: 0;
+	position: inherit;
+}
+.kt2{
+	margin-left: 9%;
+	display: flex;
+	justify-content: center;
+}
+.kotak{
+	margin-top: 18px;
+	height: 25px;
+	width: 25px;
+	border: 1px solid;
+}
+.npp{
+	background-color: gray;
+	margin-left: 10%;
+	display: flex;
+	justify-content: center;
+}
+label{
+	font-style: italic;
+	position: absolute;
+	display: flex;
+	font-size: 0.9rem;
+	margin: 0;
+	left: 75%;
+}
+.kt_1{
+	font-size: 1rem;
+	margin-right: 6%;
+	display: flex;
+}
+.perus{
+	font-style: italic;
+	position: absolute;
+	display: flex;
+	font-size: 0.9rem;
+	margin: 9px;
+	left: 1.1px;
+}
+.kt_2{
+	display: flex;
+	margin-right: 63%;
+}
+.kt_3{
+	margin-right: 10%;
+	margin-left: 2%;
+}
+.bio{
+	margin-top: 0;
+	margin-right: 5%;
+	font-size: 1rem;
+	display: flex;
+	justify-content: first baseline;
+}
+.data1{
+	position: absolute;
+	margin: 0;
+	left: 17.6%;
+	font-size: 1rem;
+	font-style: normal;
+}
+.data2{
+	position: absolute;
+	font-size: 1rem;
+	left: 48.4%;
+	margin-left: 10%;
+	display: flex;
+	font-style: normal;
+}
+.nama1{
+	display: flex;
+	justify-content: center;
+	margin-left: 18%;
+	margin-right: 10%;
+}
+.nama2{
+	display: flex;
+	justify-content: center;
+	margin-right: 5%;
+	left: 50%;
+}
+.nama3{
+	display: flex;
+	margin-left: 7.5%;
+	margin-right: 10%;
+}
+.nama4{
+	display: flex;
+	justify-content: center;
+	margin-right: 5%;
+	left: 60%;
+}
+.nama5{
+	display: flex;
+	justify-content: center;
+	margin-right: 5%;
+	left: 60%;
+}
+.tgl{
+	position: absolute;
+	font-size: 1rem;
+	left: 35%;
+	margin-left: 23.3%;
+	top: 135%;
+	display: flex;
+}
+.bln{
+	position: absolute;
+	font-size: 1rem;
+	left: 42.5%;
+	margin-left: 24.5%;
+	top: 135%;
+	display: flex;
+}
+.thn{
+	position: absolute;
+	font-size: 1rem;
+	left: 50.5%;
+	margin-left: 25.5%;
+	top: 135%;
+	display: flex;
+}
+.pend1{
+	position: absolute;
+	top: 127%;
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: bold;
+	margin-left: 13%;
+}
+.pend2{
+	position: relative;
+	display: flex;
+	align-items: end;
+	justify-content: end;
+	margin-left: 10%;
+}
+.jenjang{
+	display: flex;
+	position: absolute;
+	font-size: 1rem;
+	top: 90%;
+	left: 75%;
+}
+.sd{
+	display: flex;
+	margin-left: 10%;
+}
+.jensk{
+	display: flex;
+	align-items: first baseline;
+	font-size: 1rem;
+}
+.jkl{
+	margin-left: 4.3%;
+	margin-right: 4.3%;
+}
+.status{
+	margin-left: 16%;
+	
+}
+
